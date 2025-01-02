@@ -1,3 +1,1 @@
 Website NayiBakeShop dibuat sebagai platform selling cookies, dimana user akan bisa melihat daftar cookies yang dijual. Saya membuatkan database untuk menyimpan data cookies, dimana database tersebut akan terkoneksi dengan web yang saya buat untuk bisa melakukan CRUD pada data cookie yang saya jual. Saya juga membuat tabel untuk menyimpan username dan password hanya untuk admin, dimana data yang valid : Username = admin password = 1234. Terimakasih
-![Deskripsi Gambar](bukti database yang terhubung/Screenshot 2025-01-02 091306)
-![Deskripsi Gambar](bukti database yang terhubung/Screenshot 2025-01-02 091339)
